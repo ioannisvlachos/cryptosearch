@@ -1,0 +1,6 @@
+{
+	"api": {
+		"arkham-api" : "<your-api>", 
+		"walletexplorer-api": "<your-api>"
+	}
+}
